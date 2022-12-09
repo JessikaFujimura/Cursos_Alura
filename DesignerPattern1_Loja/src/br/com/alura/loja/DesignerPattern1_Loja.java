@@ -4,8 +4,11 @@ import br.com.alura.loja.desconto.CalculadoraDeDescontos;
 import br.com.alura.loja.imposto.CalculadoraDeImpostos;
 import br.com.alura.loja.imposto.ISS;
 import br.com.alura.loja.orcamento.Orcamento;
+import br.com.alura.loja.pedido.Pedido;
 
+import java.awt.event.PaintEvent;
 import java.math.BigDecimal;
+import java.time.LocalDateTime;
 
 public class DesignerPattern1_Loja {
     public static void main(String[] args) {
@@ -25,6 +28,10 @@ public class DesignerPattern1_Loja {
         CalculadoraDeDescontos calculadoraDeDescontos = new CalculadoraDeDescontos();
         System.out.println(calculadoraDeDescontos.calcular(primeiro));
         System.out.println(calculadoraDeDescontos.calcular(segundo));
+
+    }
+
+    public static void testePedido(){
 
     }
 
