@@ -3,6 +3,8 @@
 
 ## Descrição do projeto
 
+[Acesse o projeto](https://alura-flix-imersao-alura-react.vercel.app/)
+
 Este projeto é um repositório de vídeos da Alura. Foi criado no evento Imersão Alura - React
 
 
