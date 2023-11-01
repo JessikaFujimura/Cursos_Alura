@@ -1,0 +1,99 @@
+{
+    "bg": "https://www.dtidigital.com.br/wp-content/uploads/2019/03/Programa%C3%A7%C3%A3o-microsoft-inoveduc-destaque.jpg",
+    "title": "Quiz de programação da Alura",
+    "description": "Teste os seus conhecimentos sobre programação e vamos ver quantos bugs você vai gerar",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif",
+        "title": "Qual tipo de dado é usado para textos?",
+        "description": "Essa é pra aquecer",
+        "answer": 0,
+        "alternatives": [
+          "caracter",
+          "numerico",
+          "array"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Como fazer um background gradiente com css?",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "background: linear-gradient(#e66465, #9198e5);",
+           "background: gradient(#e66465, #9198e5);"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/3oKHWppFpiOEYbJX9u/giphy.gif",
+        "title": "Como se chama a sequencia de instruções dadas para executar uma tarefa em programação?",
+        "description": "Essa é facil",
+        "answer": 2,
+        "alternatives": [
+           "código",
+           "programinha",
+           "algoritmo"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif",
+        "title": "Como o versionador de códigos mais utilizado na programação?",
+        "description": "Super easy",
+        "answer": 1,
+        "alternatives": [
+           "facebook",
+           "git",
+           "bitbucket"
+        ]
+      }, 
+      {
+        "image": "https://media.giphy.com/media/l2Sq7HoOsgAKpl8ju/giphy.gif",
+        "title": "Qual o tipo de política de acesso da estrutura de dados FILA?",
+        "description": "Vamos ver se você manja de ED",
+        "answer": 1,
+        "alternatives": [
+           "LIFO",
+           "FIFO",
+           "DIFO"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif",
+        "title": "Qual área da programação desenvolve a parte visual das páginas?",
+        "description": "Mamão com açúcar essa hein...",
+        "answer": 2,
+        "alternatives": [
+           "data-science",
+           "back-end",
+           "front-end"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/P4X0M9pR7C3ilMDZVS/giphy.gif",
+        "title": "Qual o nome da metodologia que é bastante famosa na área de tecnologia?",
+        "description": "Você vai precisar de post-it",
+        "answer": 2,
+        "alternatives": [
+           "Ágeis",
+           "Cascata",
+           "Espiral"
+        ]
+      }
+    ],
+    "external": [
+      "https://pato-quiz-nextjs.theedouglasam.vercel.app/",
+      "https://harry-potter-quiz.brunogerbasi.vercel.app/",
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#16B83E",
+        "secondary": "#FFE11F",
+        "mainBg": "#171B35",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
